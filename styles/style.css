@@ -4,10 +4,6 @@
   margin: 0 auto;
   font-family: 'Helvetica Neue', Arial, sans-serif;
 }
-div{
-  border:1px solid red;
-}
-
 .header {
   display: flex;
   flex-direction: column;
@@ -187,7 +183,7 @@ z-index: 0;
 }
 .feynman__link{
   position: absolute;
-  top: 60%; /* добавила 10% по другому строчки были на разных уровнях */
+  top: 50%; 
   right: 48px;
   line-height: 51px;
   font-size: 36px;
