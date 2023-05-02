@@ -6,6 +6,6 @@
     display: flex;
     justify-content: space-between;
     flex-wrap: wrap;
-    position: relative; /* к сожалению не могу выполнить рекомендацию, теряю треугольник у kaufman */
+    position: relative; 
     z-index: 7;
   }
