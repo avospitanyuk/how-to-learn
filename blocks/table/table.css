@@ -6,6 +6,6 @@
     display: flex;
     justify-content: space-between;
     flex-wrap: wrap;
-    position: relative; 
+    position: relative;
     z-index: 7;
   }
